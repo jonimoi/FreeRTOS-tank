@@ -1,11 +1,10 @@
 /*
- * This code is made for further development, some mutex missing but to get
- * a decent functioning tank with FreeRTOS this is a good beginning.
+ * This code is made for further development, a simple beginning for robotics with rtos.
  * 
  * A simple autonomous tank compiled with Arduino IDE on STM32-Nucleo.
  * Make sure that the correct FreeRTOS as shown in the #include is installed
  * and tested.
- * No schematic available but should be quite simple for the interested.
+ * No schematic available but should be quite simple to wire by following the sketch.
  * 
  * For information or questions, conctact @ https://github.com/jonimoi
  */
